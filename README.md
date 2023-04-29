@@ -26,7 +26,7 @@ APP3 swift training ios app with swiftui -> sales tax calculator
 
 ## APP4
 
-APP4 swift training ios app with swiftui -> 
+APP4 swift training ios app with swiftui -> todo list
 ### Course:
 
 - ios 14 getting started
